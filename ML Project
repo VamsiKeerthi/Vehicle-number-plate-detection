@@ -1,0 +1,2 @@
+This is my summer intern project, we designed a machine learning model vehicle number plate dectection and recognition using open CV and easyOCR.
+It aims at detection of the license plate present on a vehicle and then extracting the contents of that license plate.
